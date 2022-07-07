@@ -4,7 +4,7 @@
 
 This is a Fullstack music application, where anyone can sign in and listen to the music they wish for. The tecnology and tools used for in this project will be provided below.
 
-# tecnology & Tool's
+# Tecnology & Tool's
 
 ### Symmary
 This is a pure react based project with tailwind CSS as it is way more convenient. 
@@ -19,3 +19,8 @@ MOngoDB for Backend database & Firebase for picture and audio storage and finall
 - Mongoose
 - Express
 - cors
+- Visual Studio Code
+- Postman
+
+### FeedBack's are highly appreciated.
+
