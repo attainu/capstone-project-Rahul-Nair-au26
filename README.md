@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Project Title - Music App (MERN)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
